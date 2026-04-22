@@ -1,1 +1,12 @@
-User Name: Dora  Submitted: 2026-04-22T12:34:46.069-04:00  Description: Bluetooth keyboard is not working on the laptop.  Status: Open Prio: Urgent
+User Name: Dora
+
+Submitted: 2025-04-22T16:34:46Z
+
+Description:
+Bluetooth keyboard is not working on the laptop.
+
+Status: Closed
+Prio: Urgent
+
+Activity Log:
+2025-04-22T16:34:46Z - Ticket created (Urgent). Issue resolved by troubleshooting steps given by IT support. User confirmed functionality restored, ticket closed.
