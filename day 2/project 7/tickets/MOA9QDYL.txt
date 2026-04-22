@@ -1,0 +1,1 @@
+User Name: Dora  Submitted: 2026-04-22T12:29:55.632-04:00  Description: Bluetooth keyboard not working on laptop. New issue reported by user Dora. Keyboard disconnects or is unresponsive; user requests assistance.  Status: Open Prio: Urgent
